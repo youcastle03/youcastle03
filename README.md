@@ -12,7 +12,7 @@
 <div align="center">
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cys325)](https://solved.ac/cys325)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youcastle03&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youcastle03&exclude_repo=DAP_&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 <!--
