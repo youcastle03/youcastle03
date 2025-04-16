@@ -1,25 +1,21 @@
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  <br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  <br>
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div>
+# ✨ Tech Stack ✨
 
-<br>
-<br>
-<div align="center">
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cys325)](https://solved.ac/cys325)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youcastle03&exclude_repo=DAP_,teamM&layout=compact&hide=html,css,mustache)](https://github.com/anuraghazra/github-readme-stats) 
 
-</div>
+
+# Activity
+- 카카오테크캠퍼스 2기 BE 수료 | 2024.04 ~ 2024.11
+- DND 12th BE | 2025.01 ~ 2025.02
+
+
 <!--
 **youcastle03/youcastle03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
