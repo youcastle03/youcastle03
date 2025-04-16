@@ -1,4 +1,4 @@
-# ✨ Tech Stack ✨
+## ✨ Tech Stack ✨
 
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youcastle03&exclude_repo=DAP_,teamM&layout=compact&hide=html,css,mustache)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-# 🌱Activities🌱
+## 🌱Activities🌱
 - 카카오테크캠퍼스 2기 BE 수료 | 2024.04 ~ 2024.11
 - DND 12th BE | 2025.01 ~ 2025.02
 
