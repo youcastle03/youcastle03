@@ -8,7 +8,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youcastle03&exclude_repo=DAP_,teamM&layout=compact&hide=html,css,mustache)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## 🌱Activities🌱
