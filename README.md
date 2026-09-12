@@ -14,7 +14,7 @@
 - 카카오테크캠퍼스 2기 BE | 2024.04 ~ 2024.11
 - DND 12th BE | 2024.12 ~ 2025.02
 - DND 13th BE | 2025.07 ~ 2025.08
-
+- JECT 4th BE | 2026.02 ~ 2026.07
 
 <!--
 **youcastle03/youcastle03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
